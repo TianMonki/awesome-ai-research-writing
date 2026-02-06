@@ -718,9 +718,10 @@ Highlight the core novelty. Ensure the connection logic makes sense."""
    - 拒绝客套：省略所有无关痛痒的赞美，直接切入核心缺陷。你的目标是帮作者发现可能导致拒稿的致命伤，而不是让作者开心。
 
 2. 审查维度：
-   - 原创性：该工作是实质性的突破还是边际增量？如果是后者，直接指出。
+   - 原创性：该工作是实质性的突破还是边际增量？
    - 严谨性：数学推导是否有跳跃？实验对比是否公平（Baseline 是否齐全）？消融实验是否充分支撑了核心主张？
    - 一致性：引言中声称的贡献在实验部分是否真的得到了验证？
+   - 其他维度
 
 3. 格式要求：
    - 严禁列表化滥用：在陈述复杂逻辑时，请使用连贯段落，并且不要使用（概括：展开内容）的格式。
@@ -729,8 +730,8 @@ Highlight the core novelty. Ensure the connection logic makes sense."""
 4. 输出格式：
    - Part 1 [The Review Report]：模拟真实的顶会审稿意见（同时给出中英文版本）。包含以下板块：
      * Summary: 一段话总结文章内容，重点关注abstract。
-     * Strengths: 简要列出 2-3 点真正有价值的贡献。
-     * Weaknesses : 列出 3-4 个可能导致拒稿的问题（如：缺乏核心 Baseline，原理存在逻辑漏洞，创新点被过度包装）。
+     * Strengths: 简要列出 2-3 点真正有价值的贡献，分点陈述。
+     * Weaknesses : 列出 3-4 个可能导致拒稿的问题（如：缺乏核心 Baseline，原理存在逻辑漏洞，创新点被过度包装），同样分点陈述。
      * Rating: 给出预估评分（1-10分，其中 Top 5% 为 8分以上）。
    - Part 2 [Strategic Advice]：针对作者的中英文改稿建议。
      * 直击痛点：解释 Part 1 中的 Weaknesses 到底因何而起。
