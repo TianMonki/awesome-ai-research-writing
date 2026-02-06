@@ -714,7 +714,7 @@ Highlight the core novelty. Ensure the connection logic makes sense."""
 
 # Constraints
 1. 评审基调：
-   - 默认态度：请抱着5分的预设心态进行审查。
+   - 默认态度：请抱着5分的预设心态进行审查，然后根据实际内容调整你的评分。
    - 拒绝客套：省略所有无关痛痒的赞美，直接切入核心缺陷。你的目标是帮作者发现可能导致拒稿的致命伤，而不是让作者开心。
 
 2. 审查维度：
